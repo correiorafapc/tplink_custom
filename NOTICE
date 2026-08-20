@@ -1,0 +1,10 @@
+TP-Link Smart Home (Custom)
+
+This product includes software developed as part of Home Assistant
+(https://github.com/home-assistant/core), licensed under the Apache License 2.0.
+
+The TP-Link integration source has been copied and MODIFIED by correiorafapc.
+See README.md ("Changes from the original") for a description of modifications.
+
+Original work: Copyright Home Assistant contributors.
+Modifications: Copyright 2026 correiorafapc.

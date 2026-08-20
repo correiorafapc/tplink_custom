@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Secrets / local config — never commit these
+secrets.yaml
+*.token
+*.key
+.storage/
+config/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
